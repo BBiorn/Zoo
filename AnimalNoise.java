@@ -35,12 +35,15 @@ public class AnimalNoise {
 		Dog Zoe = new Dog();
 		System.out.println(Zoe.speak());
 		
+
 		Cow biggy = new Cow();
 		System.out.println(biggy.speak());
 		
 		Zebra jacob = new Zebra();
 		System.out.println(jacob.speak());
 
+		Bear teddy = new Bear();
+		System.out.println(teddy.speak());
 	}
 
 }
