@@ -1,4 +1,4 @@
-
+package model;
 public class Cow {
 
 	private int weight;

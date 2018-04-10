@@ -31,9 +31,9 @@ public void setColor(String color) {
 public int getWeight() {
   return weight;
 }
-public void setAge(int age) {
-  this.age = age;
-}
+//public void setAge(int age) {
+//  this.age = age;
+//}
 
 public String speak() {
   return "Roarrr";
