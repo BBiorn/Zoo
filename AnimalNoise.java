@@ -40,7 +40,6 @@ public class AnimalNoise {
 		Dog Zoe = new Dog();
 		System.out.println(Zoe.speak());
 		
-
 		Cow biggy = new Cow();
 		System.out.println(biggy.speak());
 		
@@ -55,6 +54,10 @@ public class AnimalNoise {
 		
 		Fish bubbles = new Fish();
 		System.out.println(bubbles.speak());
+		
+		Bat zubat = new Bat();
+		System.out.println(zubat.speak());
 	}
 
 }
+
