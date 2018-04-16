@@ -7,6 +7,7 @@ import model.Fox;
 import model.TrappedZooKeeper;
 import model.Goat;
 import model.Zebra;
+import model.Bat;
 
 public class AnimalNoise {
 
@@ -48,6 +49,9 @@ public class AnimalNoise {
 
 		Bear teddy = new Bear();
 		System.out.println(teddy.speak());
+		
+		Bat zubat = new Bat();
+		System.out.println(zubat.speak());
 	}
 
 }
